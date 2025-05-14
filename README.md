@@ -56,7 +56,7 @@ This project is a **relational database system** built using **MySQL** for manag
 
 ---
 
-## ✍️ Author
+## Author
 
 - **Name**: *Diarietou Nasradine Diop*
 - **Cohort**: Power Learn Project – February 2025
@@ -77,5 +77,5 @@ This project is a **relational database system** built using **MySQL** for manag
 
 ## 📩 Contact
 
-If you have questions, feel free to open an issue or contact me on [GitHub](https://github.com/your-github-username).
+If you have questions, feel free to open an issue or contact me on [GitHub](https://github.com/naasnour).
 
