@@ -50,7 +50,7 @@ This project is a **relational database system** built using **MySQL** for manag
 
 ## ERD Screenshot
 
-![ERD Diagram]([wk-8-assignment-naasnour-png](https://github.com/naasnour/database-wk-8-assignment-naasnour/blob/main/wk-8-assignment-naasnour-png.png))
+![ERD Diagram](wk-8-assignment-naasnour-png.png)
 
 > The image shows the full database schema with table relationships.
 
